@@ -5,7 +5,7 @@
 					</div>
 					<div class="w3layouts-logo">
 							<h1>
-								<a href="<?php echo site_url('Home') ?>">In Industry</a>
+								<a href="<?php echo site_url('Home') ?>">UNCIA</a>
 							</h1>
 						</div>
 						<div class="wthreesearch">
@@ -38,8 +38,9 @@
 									<li><a href="<?php echo site_url('Gallery') ?>">Gallery</a></li>
 									<li class=""><a href="#" class="dropdown-toggle hvr-bounce-to-bottom" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Codes<span class="caret"></span></a>
 										<ul class="dropdown-menu">
-											<li><a class="hvr-bounce-to-bottom" href="icons.html">Icons</a></li>
-											<li><a class="hvr-bounce-to-bottom" href="typography.html">Typography</a></li>          
+											<li><a class="hvr-bounce-to-bottom" href="icons.html">Entrenamiento Y Certificacion<br>de Personal</a></li>
+											<li><a class="hvr-bounce-to-bottom" href="typography.html">Ejecución Y Desarrollo <br>de Trabajos Críticos</a></li>
+											<li><a class="hvr-bounce-to-bottom" href="typography.html">Asesoría Y Consultoría</a></li>
 										</ul>
 									</li>	
 									<li><a href="<?php echo site_url('Projects') ?>">Projects</a></li>

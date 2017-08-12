@@ -1,39 +1,43 @@
 <!-- footer -->
-	<div class="w3-agile-footer">
+	<div class="w3-agile-footer"> 
 		<div class="container">
 			<div class="footer-grids">
+
 				<div class="col-md-3 footer-grid">
 					<div class="footer-grid-heading">
-						<h4>Address</h4>
+						<h4>CONTACTO</h4>
 					</div>
 					<div class="footer-grid-info">
-						<p>Eiusmod Tempor inc
-							<span>St Dolore Place,Kingsport 56777.</span>
+						<p>UNCIA
+							<span>!!DIRECCION!!</span>
 						</p>
-						<p class="phone">Phone : +1 123 456 789
-							<span>Email : <a href="mailto:example@email.com">mail@example.com</a></span>
+						<p class="phone">Telefono : !!TELEFONO!!
+							<span>Email : <a href="mailto:bpb1594@gmail.com">!!EMAIL!!</a></span>
 							<span>FAX : <a href="mailto:example@email.com">123 456 7890</a></span>
 						</p>
 					</div>
 				</div>
+
 				<div class="col-md-3 footer-grid">
 					<div class="footer-grid-heading">
-						<h4>Navigation</h4>
+						<h4>Navegacion</h4>
 					</div>
+
 					<div class="footer-grid-info">
 						<ul>
 							<li><a href="index.html">Home</a></li>
-							<li><a href="about.html">About</a></li>
-							<li><a href="gallery.html">Gallery</a></li>
-							<li><a href="icons.html">Icons</a></li>
-							<li><a href="typography.html">Typography</a></li>
-							<li><a href="contact.html">Contact</a></li>
+							<li><a href="about.html">La Empresa</a></li>
+							<li><a href="gallery.html">Galeria</a></li>
+							<li><a href="contact.html">Contacto</a></li>
+							<!--<li><a href="icons.html">Icons</a></li>
+							<li><a href="typography.html">Typography</a></li>-->
 						</ul>
 					</div>
 				</div>
+
 				<div class="col-md-3 footer-grid">
 					<div class="footer-grid-heading">
-						<h4>Newsletter</h4>
+						<h4>Noticias</h4>
 					</div>
 					<div class="agile-footer-grid">
 						<ul class="w3agile_footer_grid_list">
@@ -43,24 +47,29 @@
 						</ul>
 					</div>
 				</div>
+
 				<div class="col-md-3 footer-grid">
 					<div class="footer-grid-heading">
-						<h4>Follow</h4>
+						<h4>Follow Us</h4>
 					</div>
 					<div class="social">
 						<ul>
-							<li><a href="#"><i class="fa fa-facebook"></i></a></li>
-							<li><a href="#"><i class="fa fa-twitter"></i></a></li>
-							<li><a href="#"><i class="fa fa-rss"></i></a></li>
-							<li><a href="#"><i class="fa fa-vk"></i></a></li>
+							<li><a href="https://facebook.com/"><i class="fa fa-facebook"></i></a></li>
+							<li><a href="http://linkedin.com/"><i class="fa fa-linkedin"></i></a></li>
+							<li><a href="https://twitter.com/"><i class="fa fa-twitter"></i></a></li>
+							<!--<li><a href="#"><i class="fa fa-rss"></i></a></li>-->
+							<!--<li><a href="#"><i class="fa fa-vk"></i></a></li>-->
 						</ul>
 					</div>
 				</div>
+
 				<div class="clearfix"> </div>
 			</div>
+
 			<div class="agileits-w3layouts-copyright">
-				<p>© 2017 UNCIA . All Rights Reserved | Design by <a href="http://w3layouts.com/"> W3layouts</a> </p>
+				<p>© 2017 In Industry . All Rights Reserved | Design by <a href="http://w3layouts.com/"> W3layouts</a> </p>
 			</div>
+
 		</div>
 	</div>
 	<!-- //footer -->
