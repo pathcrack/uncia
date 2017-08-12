@@ -59,7 +59,7 @@
 				<div class="clearfix"> </div>
 			</div>
 			<div class="agileits-w3layouts-copyright">
-				<p>© 2017 In Industry . All Rights Reserved | Design by <a href="http://w3layouts.com/"> W3layouts</a> </p>
+				<p>© 2017 UNCIA . All Rights Reserved | Design by <a href="http://w3layouts.com/"> W3layouts</a> </p>
 			</div>
 		</div>
 	</div>
