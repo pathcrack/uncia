@@ -5,7 +5,9 @@
 					</div>
 					<div class="w3layouts-logo">
 							<h1>
-								<a href="<?php echo site_url('Home') ?>">UNCIA</a>
+								<a href="<?php echo site_url('Home') ?>">
+								<img src="<?php echo base_url() ?>assets/images/logo.jpg" style="width:304px;height:128px;">
+								</a>
 							</h1>
 						</div>
 						<div class="wthreesearch">
