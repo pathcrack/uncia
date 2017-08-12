@@ -10,14 +10,15 @@
 								</a>
 							</h1>
 						</div>
-						<div class="wthreesearch">
+						
+						<!--<div class="wthreesearch">
 							<form action="#" method="post">
 								<input type="search" name="Search" placeholder="Search " required="">
 								<button type="submit" class="btn btn-default search" aria-label="Left Align">
 									<i class="fa fa-search" aria-hidden="true"></i>
 								</button>
 							</form>
-						</div>
+						</div>-->
 				</div>
 			</div>
 			<div class="header">
