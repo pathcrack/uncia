@@ -10,20 +10,20 @@
 							<ul class="slides">
 								<li>
 									<div class="agileits_w3layouts_banner_info">
-										<h3>We are committed to the highest quality</h3>
-										<p>Standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
+										<h3>Mantenimiento Industrial</h3>
+										<p>Limpieza Industrial, Reparación de infraestructura metalica, Aplicación de pintura</p>
 									</div>
 								</li>
 								<li>
 									<div class="agileits_w3layouts_banner_info">
-										<h3>Our company can boast the reputation</h3>
-										<p>Standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
+										<h3>Acceso Vertical</h3>
+										<p>Trabajos en condiciones críticas, Mantenimiento de estructuras de altura, Instalación de anclajes para trabajos en altura</p>
 									</div>
-								</li>
+								</li>		
 								<li>
 									<div class="agileits_w3layouts_banner_info">
-										<h3>Our company can boast the reputation</h3>
-										<p>Standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
+										<h3>Asesoria y entrenamiento de personal</h3>
+										<p>Gestión de seguridad industrial para proyectos mineros, energeticos, hidrocarburos. Entrenamiento y certificación en trabajos en altura, espacios confinados y gestion de riesgo</p>
 									</div>
 								</li>
 							</ul>
@@ -50,30 +50,29 @@
 <!-- Specialize-section -->
 			<div class="w3-about text-center">
 				<div class="container">
-					<h2 class="w3ls_head">Welcome</h2>
-					<p class="para">Lorem Ipsum is simply dummy text <span> type setting industry</span> esse cillum dolore eu 
-					fugiat nulla pariatur. Excepteur sint occaecat.</p>
+					<h2 class="w3ls_head">Bienvenido</h2>
+					<p class="para">conoce nuestros servicios.</p>
 					<div class="w3-ab-top">
 						<div class="col-md-4 w3l-abt-grid">
 							<div class="hi-icon-wrap hi-icon-effect-7 hi-icon-effect-7b">
 								<a href="#" class="hi-icon icon1"><i class="fa fa-cog" aria-hidden="true"></i></a>
 							</div>
-							<h4>Metal Shearing</h4>
-							<p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.</p>
+							<h4>Ejecución & desarrollo de trabajos críticos</h4>
+							<p>Nos especializamos en mantenimiento de infraestructura en diversos rubros como limpieza industrial, reparación de estructuras de altura, aplicación de pintura, etc.</p>
 						</div>
 						<div class="col-md-4 w3l-abt-grid-1">
 							<div class="hi-icon-wrap hi-icon-effect-7 hi-icon-effect-7b">
 								<a href="#" class="hi-icon icon2"><i class="fa fa-sun-o" aria-hidden="true"></i></a>
 							</div>
-							<h4>Steel Cladding</h4>
-							<p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered in some, by injected humour.</p>
+							<h4>Entrenamiento & Certificación de Personal</h4>
+							<p>Si buscas ser compente en trabajos en altura, control en energía peligrosa, espacios confinados, entre otros, entrena con nosotros y obtén una certificación.</p>
 						</div>
 						<div class="col-md-4 w3l-abt-grid-2">
 							<div class="hi-icon-wrap hi-icon-effect-7 hi-icon-effect-7b">
 								<a href="#" class="hi-icon icon3"><i class="fa fa-gift" aria-hidden="true"></i></i></a>
 							</div>
-							<h4>Delivery & Erection</h4>
-							<p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of Latin literature from 45 BC, making.</p>
+							<h4>Asesoría & Consultoría (HSE)</h4>
+							<p>Brindamos soporte en elaboración de Matrices de Control de Energía Peligrosa, Asesoramiento para Programas de Riesgo Critico, Auditorías Externas, etc.</p>
 						</div>
 						<div class="clearfix"></div>
 					</div>
@@ -84,7 +83,7 @@
 	<div class="services news">
 		<div class="container"> 
 				<div class="new-w3l">
-					<h3 class="w3ls_head">News & Events</h3>
+					<h3 class="w3ls_head">Noticias & Eventos</h3>
 					<p class="para">Lorem Ipsum is simply dummy text <span> type setting industry</span> esse cillum dolore eu 
 					fugiat nulla pariatur. Excepteur sint occaecat.</p>			
 				</div>
@@ -133,7 +132,7 @@
 <!-- testimonials -->
 	<div class="testimonials">
 		<div class="container"> 
-			<h3 class="w3ls_head">Testimonials</h3>
+			<h3 class="w3ls_head">Nuestros clientes</h3>
 					<p class="para">Lorem Ipsum is simply dummy text <span> type setting industry</span> esse cillum dolore eu 
 					fugiat nulla pariatur. Excepteur sint occaecat.</p>	
 			<div class="testi-w3agileinfo"> 
@@ -166,16 +165,17 @@
 	<div class="sub-agileitsinfo">  
 		<div class="subscribe wthree-sub"> 
 			<div class="container">    
-				<h3 class="w3ls_head">Subscribe Now</h3>
+				<h3 class="w3ls_head">Suscríbete</h3>
 					<p class="para">Lorem Ipsum is simply dummy text <span> type setting industry</span> esse cillum dolore eu 
 					fugiat nulla pariatur. Excepteur sint occaecat.</p>	
 				<div class="subsc-agile">
-					<form action="#" method="post"> 
+					<!--//Cuadro de registro de email-->
+					<!--<form action="#" method="post"> 
 						<input type="email" name="email" placeholder="Enter your Email..." required="">
 						<input type="submit" value="Subscribe"> 
 						<div class="clearfix"> </div>
 					
-					</form>
+					</form>-->
 				</div>				
 			</div>
 		</div>

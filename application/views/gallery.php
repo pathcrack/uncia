@@ -153,7 +153,7 @@
 	<div class="sub-agileitsinfo">  
 		<div class="subscribe wthree-sub"> 
 			<div class="container">    
-				<h3 class="w3ls_head">Subscribe Now</h3>
+				<h3 class="w3ls_head">Suscríbete</h3>
 					<p class="para">Lorem Ipsum is simply dummy text <span> type setting industry</span> esse cillum dolore eu 
 					fugiat nulla pariatur. Excepteur sint occaecat.</p>	
 				<div class="subsc-agile">

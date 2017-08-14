@@ -20,7 +20,7 @@ body{
 }
 /*-- banner --*/
 .banner{
-    background: url(../images/1.jpg) no-repeat 0px 0px;
+    background: url(../images/hidrolavado.jpg) no-repeat 0px 0px;
     background-size: cover;
     min-height:750px;
 }
@@ -36,7 +36,7 @@ body{
     background-position: 50% 50%;
 }
 .banner-1 {
-    background: url(../images/unciabackground.jpg) no-repeat 0px 0px;
+    background: url(../images/hidrolavado.jpg) no-repeat 0px 0px;
     background-size: cover;
     min-height: 350px;
 }
@@ -149,7 +149,7 @@ body{
 }
 .top-nav ul li {
     display: inline-block;
-    margin: 0 3.8em;
+    margin: 0 3.1em;
     float: none;
 }
 .top-nav ul li:nth-child(1){
@@ -341,7 +341,7 @@ i.fa.fa-search {
 }
 /*-- //banner_info --*/
 .w3ls_head {
-    font-size: 36px;
+    font-size: 40px;
     color: #212121;
     font-weight: 600;
     margin-bottom: 30px;
@@ -352,10 +352,12 @@ i.fa.fa-search {
     position: relative;
 }
 p.w3agile {
+    /*font-size: 15px;*/
     font-size: 15px;
     color: #777;
     width: 70%;
     margin: 0 auto;
+    /*line-height: 28px;*/
     line-height: 28px;
     text-align: center;
 }
