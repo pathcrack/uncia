@@ -21,12 +21,12 @@
 						</div>-->
 				</div>
 			</div>
-			<div class="header">
+			<div class="header" style="height: 55px;">
 				<div class="container">
 					<div class="top-nav">
-						<nav class="navbar navbar-default">
+						<nav class="navbar navbar-default" style="height: 55px; margin-top: -37px;">
 								<div class="navbar-header">
-									<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+									<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" style="margin-top: 45px;">
 										<span class="sr-only">Toggle navigation</span>
 										<span class="icon-bar"></span>
 										<span class="icon-bar"></span>
@@ -49,13 +49,12 @@
 									<li style="margin-left: -10px;"><a href="<?php echo site_url('Projects') ?>">Experiencia</a></li>
 									<li style="margin-left: 30px;"><a href="<?php echo site_url('Contact') ?>">Contacto</a></li> 
 									<li style="margin-left: 10px;"><a href="<?php echo site_url('Contact') ?>">Blog</a></li> 
-									<li style="margin-left: 10px;"><a href="<?php echo site_url('Contact') ?>">Eventos</a></li> 
 								</ul>	
 								<div class="clearfix"> </div>	
 							</div>
 						</nav>
 					</div>
-					
+						
 					<div class="clearfix"> </div>
 				</div>
 			</div>
