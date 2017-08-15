@@ -50,15 +50,15 @@
 <!-- Specialize-section -->
 			<div class="w3-about text-center">
 				<div class="container">
-					<h2 class="w3ls_head">Bienvenido</h2>
-					<p class="para">conoce nuestros servicios.</p>
+					<h2 class="w3ls_head" style="font-size: 54px;">Bienvenido</h2>
+					<p class="para" style="font-size: 44px;">conoce nuestros servicios.</p>
 					<div class="w3-ab-top">
 						<div class="col-md-4 w3l-abt-grid">
 							<div class="hi-icon-wrap hi-icon-effect-7 hi-icon-effect-7b">
 								<a href="#" class="hi-icon icon1"><i class="fa fa-cog" aria-hidden="true"></i></a>
 							</div>
 							<h4>Ejecución & desarrollo de trabajos críticos</h4>
-							<p>Nos especializamos en mantenimiento de infraestructura en diversos rubros como limpieza industrial, reparación de estructuras de altura, aplicación de pintura, etc.</p>
+							<p style="font-size: 20px;">Nos especializamos en mantenimiento de infraestructura en diversos rubros como limpieza industrial, reparación de estructuras de altura, aplicación de pintura, etc.</p>
 						</div>
 						<div class="col-md-4 w3l-abt-grid-1">
 							<div class="hi-icon-wrap hi-icon-effect-7 hi-icon-effect-7b">
@@ -140,6 +140,11 @@
 				<ul class="nav nav-tabs" role="tablist">
 					<li role="presentation" class="active"><a href="#testi" aria-controls="testi" role="tab" data-toggle="tab"><img src="<?php echo base_url() ?>assets/images/1.png" alt=""/></a></li>
 					<li role="presentation"><a href="#profile" aria-controls="profile" role="tab" data-toggle="tab"><img src="<?php echo base_url() ?>assets/images/3.png" alt=""/></a></li>
+					<li role="presentation"><a href="#messages" aria-controls="messages" role="tab" data-toggle="tab"><img src="<?php echo base_url() ?>assets/images/2.png" alt=""/></a></li>
+					<li role="presentation"><a href="#messages" aria-controls="messages" role="tab" data-toggle="tab"><img src="<?php echo base_url() ?>assets/images/2.png" alt=""/></a></li>
+					<li role="presentation"><a href="#messages" aria-controls="messages" role="tab" data-toggle="tab"><img src="<?php echo base_url() ?>assets/images/2.png" alt=""/></a></li>
+					<li role="presentation"><a href="#messages" aria-controls="messages" role="tab" data-toggle="tab"><img src="<?php echo base_url() ?>assets/images/2.png" alt=""/></a></li>
+					<li role="presentation"><a href="#messages" aria-controls="messages" role="tab" data-toggle="tab"><img src="<?php echo base_url() ?>assets/images/2.png" alt=""/></a></li>
 					<li role="presentation"><a href="#messages" aria-controls="messages" role="tab" data-toggle="tab"><img src="<?php echo base_url() ?>assets/images/2.png" alt=""/></a></li>
 				</ul> 
 				<!-- Tab panes -->

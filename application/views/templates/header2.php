@@ -41,8 +41,8 @@
 									<li style="margin-left: 10px;"><a href="<?php echo site_url('Gallery') ?>">Galería</li>
 									<li style="margin-left: 10px;"><a href="#" class="dropdown-toggle hvr-bounce-to-bottom" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Servicios<span class="caret"></span></a>
 										<ul class="dropdown-menu">
-											<li><a class="hvr-bounce-to-bottom" href="icons.html">Entrenamiento Y Certificacion<br>de Personal</a></li>
-											<li><a class="hvr-bounce-to-bottom" href="typography.html">Ejecución Y Desarrollo <br>de Trabajos Críticos</a></li>
+											<li><a class="hvr-bounce-to-bottom" href="icons.html"></a>Ejecución Y Desarrollo <br>de Trabajos Críticos</li>
+											<li><a class="hvr-bounce-to-bottom" href="typography.html">Entrenamiento Y Certificacion<br>de Personal</a></li>
 											<li><a class="hvr-bounce-to-bottom" href="typography.html">Asesoría Y Consultoría</a></li>
 										</ul>
 									</li>	

@@ -14,6 +14,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <meta name="keywords" content="In Industry Responsive web template, Bootstrap Web Templates, Flat Web Templates, Android Compatible web template, 
 Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, SonyEricsson, Motorola web design" />
 <script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
+<link rel="shortcut icon" type="image/x-icon" href="<?php echo base_url() ?>assets/images/logo.jpg">
 <!-- bootstrap-css -->
 <link href="<?php echo base_url() ?>assets/css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
 <!--// bootstrap-css -->

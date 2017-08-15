@@ -32,7 +32,7 @@
 							</a>
 						</figure>
 					</div>
-				</div>
+				</div>	
 				<div class="col-md-3 gallery-grid">
 					<div class="grid">
 						<figure class="effect-apollo">
