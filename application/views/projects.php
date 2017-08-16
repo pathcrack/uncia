@@ -14,7 +14,7 @@
 				<div class="col-sm-4 projects-w3lgrids">
 					<div class="projects-gridtext">
 						<div class="news-w3img">
-							<a href="#" data-toggle="modal" data-target="#myModal"><img src="<?php echo base_url() ?>assets/images/s9.jpg" class="img-responsive zoom-img" alt=""/></a>
+							<a href="#" data-toggle="modal" data-target="#myModal"><img src="<?php echo base_url() ?>assets/uncia/images/s9.jpg" class="img-responsive zoom-img" alt=""/></a>
 						</div>
 						<div class="projects-w3imgtext">
 							<h4>Fringilla</h4> 
@@ -25,7 +25,7 @@
 				<div class="col-sm-4 projects-w3lgrids">
 					<div class="projects-gridtext">
 						<div class="news-w3img">
-							<a href="#" data-toggle="modal" data-target="#myModal"><img src="<?php echo base_url() ?>assets/images/s8.jpg" class="img-responsive zoom-img" alt=""/></a>
+							<a href="#" data-toggle="modal" data-target="#myModal"><img src="<?php echo base_url() ?>assets/uncia/images/s8.jpg" class="img-responsive zoom-img" alt=""/></a>
 						</div>
 						<div class="projects-w3imgtext">
 							<h4>Fringilla</h4> 
@@ -36,7 +36,7 @@
 				<div class="col-sm-4 projects-w3lgrids">
 					<div class="projects-gridtext">
 						<div class="news-w3img">
-							<a href="#" data-toggle="modal" data-target="#myModal"><img src="<?php echo base_url() ?>assets/images/s7.jpg" class="img-responsive zoom-img" alt=""/></a>
+							<a href="#" data-toggle="modal" data-target="#myModal"><img src="<?php echo base_url() ?>assets/uncia/images/s7.jpg" class="img-responsive zoom-img" alt=""/></a>
 						</div>
 						<div class="projects-w3imgtext">
 							<h4>Fringilla</h4> 
@@ -47,7 +47,7 @@
 				<div class="col-sm-4 projects-w3lgrids">
 					<div class="projects-gridtext">
 						<div class="news-w3img">
-							<a href="#" data-toggle="modal" data-target="#myModal"><img src="<?php echo base_url() ?>assets/images/s4.jpg" class="img-responsive zoom-img" alt=""/></a>
+							<a href="#" data-toggle="modal" data-target="#myModal"><img src="<?php echo base_url() ?>assets/uncia/images/s4.jpg" class="img-responsive zoom-img" alt=""/></a>
 						</div>
 						<div class="projects-w3imgtext">
 							<h4>Fringilla</h4> 
@@ -58,7 +58,7 @@
 				<div class="col-sm-4 projects-w3lgrids">
 					<div class="projects-gridtext">
 						<div class="news-w3img">
-							<a href="#" data-toggle="modal" data-target="#myModal"><img src="<?php echo base_url() ?>assets/images/s5.jpg" class="img-responsive zoom-img" alt=""/></a>
+							<a href="#" data-toggle="modal" data-target="#myModal"><img src="<?php echo base_url() ?>assets/uncia/images/s5.jpg" class="img-responsive zoom-img" alt=""/></a>
 						</div>
 						<div class="projects-w3imgtext">
 							<h4>Fringilla</h4> 
@@ -69,7 +69,7 @@
 				<div class="col-sm-4 projects-w3lgrids">
 					<div class="projects-gridtext">
 						<div class="news-w3img">
-							<a href="#" data-toggle="modal" data-target="#myModal"><img src="<?php echo base_url() ?>assets/images/s6.jpg" class="img-responsive zoom-img" alt=""/></a>
+							<a href="#" data-toggle="modal" data-target="#myModal"><img src="<?php echo base_url() ?>assets/uncia/images/s6.jpg" class="img-responsive zoom-img" alt=""/></a>
 						</div>
 						<div class="projects-w3imgtext">
 							<h4>Fringilla</h4> 

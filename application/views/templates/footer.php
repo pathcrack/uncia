@@ -29,6 +29,7 @@
 							<li><a href="about.html">La Empresa</a></li>
 							<li><a href="gallery.html">Galeria</a></li>
 							<li><a href="contact.html">Contacto</a></li>
+							<li><a href="<?php echo site_url('User/signin') ?>"><b>Administrador</b></a></li>
 							<!--<li><a href="icons.html">Icons</a></li>
 							<li><a href="typography.html">Typography</a></li>-->
 						</ul>

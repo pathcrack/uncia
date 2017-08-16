@@ -6,7 +6,7 @@
 					<div class="w3layouts-logo">
 							<h1>
 								<a href="<?php echo site_url('Home') ?>">
-								<img src="<?php echo base_url() ?>assets/images/logo.jpg" style="width:200px;height:90px;">
+								<img src="<?php echo base_url() ?>assets/uncia/images/logo.jpg" style="width:200px;height:90px;">
 								</a>
 							</h1>
 						</div>

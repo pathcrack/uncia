@@ -30,7 +30,7 @@
 						</div>
 				</section>
 			<!-- flexSlider -->
-				<script language="JavaScript" defer src="<?php echo base_url() ?>assets/js/jquery.flexslider.js"></script>
+				<script language="JavaScript" defer src="<?php echo base_url() ?>assets/uncia/js/jquery.flexslider.js"></script>
 				<script type="text/javascript">
 					$(window).load(function(){
 					  $('.flexslider').flexslider({
@@ -91,7 +91,7 @@
 				<div class="col-sm-4 news-w3lgrids">
 					<div class="news-gridtext">
 						<div class="news-w3img">
-							<a href="#" data-toggle="modal" data-target="#myModal"><img src="<?php echo base_url() ?>assets/images/s11.jpg" class="img-responsive zoom-img" alt=""/></a>
+							<a href="#" data-toggle="modal" data-target="#myModal"><img src="<?php echo base_url() ?>assets/uncia/images/s11.jpg" class="img-responsive zoom-img" alt=""/></a>
 						</div>
 						<div class="news-w3imgtext">
 							<h5 class="w3-agilep">MAR 12, 2017 </h5>
@@ -103,7 +103,7 @@
 				<div class="col-sm-4 news-w3lgrids">
 					<div class="news-gridtext">
 						<div class="news-w3img">
-							<a href="#" data-toggle="modal" data-target="#myModal"><img src="<?php echo base_url() ?>assets/images/s10.jpg" class="img-responsive zoom-img" alt=""/></a>
+							<a href="#" data-toggle="modal" data-target="#myModal"><img src="<?php echo base_url() ?>assets/uncia/images/s10.jpg" class="img-responsive zoom-img" alt=""/></a>
 						</div>
 						<div class="news-w3imgtext">
 							<h5 class="w3-agilep">MAR 4, 2017</h5>
@@ -115,7 +115,7 @@
 				<div class="col-sm-4 news-w3lgrids">
 					<div class="news-gridtext">
 						<div class="news-w3img">
-							<a href="#" data-toggle="modal" data-target="#myModal"><img src="<?php echo base_url() ?>assets/images/s12.jpg" class="img-responsive zoom-img" alt=""/></a>
+							<a href="#" data-toggle="modal" data-target="#myModal"><img src="<?php echo base_url() ?>assets/uncia/images/s12.jpg" class="img-responsive zoom-img" alt=""/></a>
 						</div>
 						<div class="news-w3imgtext">
 							<h5 class="w3-agilep">MAR 21, 2017</h5>
@@ -138,14 +138,14 @@
 			<div class="testi-w3agileinfo"> 
 				<!-- Nav tabs -->
 				<ul class="nav nav-tabs" role="tablist">
-					<li role="presentation" class="active"><a href="#testi" aria-controls="testi" role="tab" data-toggle="tab"><img src="<?php echo base_url() ?>assets/images/1.png" alt=""/></a></li>
-					<li role="presentation"><a href="#profile" aria-controls="profile" role="tab" data-toggle="tab"><img src="<?php echo base_url() ?>assets/images/3.png" alt=""/></a></li>
-					<li role="presentation"><a href="#messages" aria-controls="messages" role="tab" data-toggle="tab"><img src="<?php echo base_url() ?>assets/images/2.png" alt=""/></a></li>
-					<li role="presentation"><a href="#messages" aria-controls="messages" role="tab" data-toggle="tab"><img src="<?php echo base_url() ?>assets/images/2.png" alt=""/></a></li>
-					<li role="presentation"><a href="#messages" aria-controls="messages" role="tab" data-toggle="tab"><img src="<?php echo base_url() ?>assets/images/2.png" alt=""/></a></li>
-					<li role="presentation"><a href="#messages" aria-controls="messages" role="tab" data-toggle="tab"><img src="<?php echo base_url() ?>assets/images/2.png" alt=""/></a></li>
-					<li role="presentation"><a href="#messages" aria-controls="messages" role="tab" data-toggle="tab"><img src="<?php echo base_url() ?>assets/images/2.png" alt=""/></a></li>
-					<li role="presentation"><a href="#messages" aria-controls="messages" role="tab" data-toggle="tab"><img src="<?php echo base_url() ?>assets/images/2.png" alt=""/></a></li>
+					<li role="presentation" class="active"><a href="#testi" aria-controls="testi" role="tab" data-toggle="tab"><img src="<?php echo base_url() ?>assets/uncia/images/1.png" alt=""/></a></li>
+					<li role="presentation"><a href="#profile" aria-controls="profile" role="tab" data-toggle="tab"><img src="<?php echo base_url() ?>assets/uncia/images/3.png" alt=""/></a></li>
+					<li role="presentation"><a href="#messages" aria-controls="messages" role="tab" data-toggle="tab"><img src="<?php echo base_url() ?>assets/uncia/images/2.png" alt=""/></a></li>
+					<li role="presentation"><a href="#messages" aria-controls="messages" role="tab" data-toggle="tab"><img src="<?php echo base_url() ?>assets/uncia/images/2.png" alt=""/></a></li>
+					<li role="presentation"><a href="#messages" aria-controls="messages" role="tab" data-toggle="tab"><img src="<?php echo base_url() ?>assets/uncia/images/2.png" alt=""/></a></li>
+					<li role="presentation"><a href="#messages" aria-controls="messages" role="tab" data-toggle="tab"><img src="<?php echo base_url() ?>assets/uncia/images/2.png" alt=""/></a></li>
+					<li role="presentation"><a href="#messages" aria-controls="messages" role="tab" data-toggle="tab"><img src="<?php echo base_url() ?>assets/uncia/images/2.png" alt=""/></a></li>
+					<li role="presentation"><a href="#messages" aria-controls="messages" role="tab" data-toggle="tab"><img src="<?php echo base_url() ?>assets/uncia/images/2.png" alt=""/></a></li>
 				</ul> 
 				<!-- Tab panes -->
 				<div class="tab-content">
@@ -218,6 +218,7 @@
 							<li><a href="about.html">La Empresa</a></li>
 							<li><a href="gallery.html">Galeria</a></li>
 							<li><a href="contact.html">Contacto</a></li>
+							<li><a href="<?php echo site_url('User/signin') ?>"><b>Administrador</b></a></li>
 							<!--<li><a href="icons.html">Icons</a></li>
 							<li><a href="typography.html">Typography</a></li>-->
 						</ul>
@@ -274,7 +275,7 @@
 				</div>
 				<section>
 					<div class="modal-body">
-						<img src="<?php echo base_url() ?>assets/images/s12.jpg" alt=" " class="img-responsive" />
+						<img src="<?php echo base_url() ?>assets/uncia/images/s12.jpg" alt=" " class="img-responsive" />
 						<p>Ut enim ad minima veniam, quis nostrum 
 							exercitationem ullam corporis suscipit laboriosam, 
 							nisi ut aliquid ex ea commodi consequatur? Quis autem 
@@ -290,8 +291,8 @@
 	</div>
 <!-- //bootstrap-pop-up -->
 
-	<script src="<?php echo base_url() ?>assets/js/jarallax.js"></script>
-	<script src="<?php echo base_url() ?>assets/js/SmoothScroll.min.js"></script>
+	<script src="<?php echo base_url() ?>assets/uncia/js/jarallax.js"></script>
+	<script src="<?php echo base_url() ?>assets/uncia/js/SmoothScroll.min.js"></script>
 	<script type="text/javascript">
 		/* init Jarallax */
 		$('.jarallax').jarallax({

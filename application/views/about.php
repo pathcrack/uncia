@@ -13,7 +13,7 @@
 			</div>
 			<div class="ab-agile">
 				<div class="col-md-5 ab-pic">
-					 <img src="<?php echo base_url() ?>assets/images/s12.jpg" alt=" " />
+					 <img src="<?php echo base_url() ?>assets/uncia/images/s12.jpg" alt=" " />
 				</div>
 				<div class="col-md-7 ab-text">
 					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eu erat lacus, vel congue mauris. Fusce velit justo, faucibus eu sagittis ac, gravida quis tortor. Suspendisse non urna mi, quis tincidunt eros. Nullam tellus turpis, fringilla sit amet congue ut, luctus a nulla. Donec sit amet sapien neque, id ullamcorper diam. Nulla facilisi. Pellentesque pellentesque arcu a elit congue lacinia.</p>
@@ -38,7 +38,7 @@
 					</ul>
 				</div>
 				<div class="col-md-5 facts">
-					<img src="<?php echo base_url() ?>assets/images/s11.jpg" alt=" " />		
+					<img src="<?php echo base_url() ?>assets/uncia/images/s11.jpg" alt=" " />		
 				</div>
 				<div class="clearfix"> </div>
 			</div>
@@ -70,7 +70,7 @@
 			</div>
 			<div class="agileinfo-team-grids">
 				<div class="col-md-3 wthree-team-grid">
-					<img src="<?php echo base_url() ?>assets/images/t1.jpg" alt="">
+					<img src="<?php echo base_url() ?>assets/uncia/images/t1.jpg" alt="">
 					<div class="wthree-team-grid-info">
 						<h4>Mary Jane</h4>
 						<p>Vestibulum</p>
@@ -84,7 +84,7 @@
 					</div>
 				</div>
 				<div class="col-md-3 wthree-team-grid">
-					<img src="<?php echo base_url() ?>assets/images/t2.jpg" alt="">
+					<img src="<?php echo base_url() ?>assets/uncia/images/t2.jpg" alt="">
 					<div class="wthree-team-grid-info">
 						<h4>Peter Parke</h4>
 						<p>Vestibulum</p>
@@ -112,7 +112,7 @@
 					</div>
 				</div>
 				<div class="col-md-3 wthree-team-grid">
-					<img src="<?php echo base_url() ?>assets/images/t4.jpg" alt="">
+					<img src="<?php echo base_url() ?>assets/uncia/images/t4.jpg" alt="">
 					<div class="wthree-team-grid-info">
 						<h4>Steven Wilson</h4>
 						<p>Vestibulum</p>

@@ -14,8 +14,8 @@
 				<div class="col-md-3 gallery-grid">
 					<div class="grid">
 						<figure class="effect-apollo">
-							<a class="example-image-link" href="<?php echo base_url() ?>assets/images/s1.jpg" data-lightbox="example-set" data-title="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ut sem ac lectus mattis sagittis. Donec pulvinar quam sit amet est vestibulum volutpat. Phasellus sed nibh odio. Phasellus posuere at purus sit amet porttitor. Cras euismod egestas enim eget molestie. Aenean ornare condimentum odio, in lacinia felis finibus non. Nam faucibus libero et lectus finibus, sed porttitor velit pellentesque.">
-								<img src="<?php echo base_url() ?>assets/images/s1.jpg" alt="" />
+							<a class="example-image-link" href="<?php echo base_url() ?>assets/uncia/images/s1.jpg" data-lightbox="example-set" data-title="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ut sem ac lectus mattis sagittis. Donec pulvinar quam sit amet est vestibulum volutpat. Phasellus sed nibh odio. Phasellus posuere at purus sit amet porttitor. Cras euismod egestas enim eget molestie. Aenean ornare condimentum odio, in lacinia felis finibus non. Nam faucibus libero et lectus finibus, sed porttitor velit pellentesque.">
+								<img src="<?php echo base_url() ?>assets/uncia/images/s1.jpg" alt="" />
 								<figcaption>
 								</figcaption>	
 							</a>
@@ -25,8 +25,8 @@
 				<div class="col-md-3 gallery-grid">
 					<div class="grid">
 						<figure class="effect-apollo">
-							<a class="example-image-link" href="<?php echo base_url() ?>assets/images/s2.jpg" data-lightbox="example-set" data-title="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ut sem ac lectus mattis sagittis. Donec pulvinar quam sit amet est vestibulum volutpat. Phasellus sed nibh odio. Phasellus posuere at purus sit amet porttitor. Cras euismod egestas enim eget molestie. Aenean ornare condimentum odio, in lacinia felis finibus non. Nam faucibus libero et lectus finibus, sed porttitor velit pellentesque.">
-								<img src="<?php echo base_url() ?>assets/images/s2.jpg" alt="" />
+							<a class="example-image-link" href="<?php echo base_url() ?>assets/uncia/images/s2.jpg" data-lightbox="example-set" data-title="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ut sem ac lectus mattis sagittis. Donec pulvinar quam sit amet est vestibulum volutpat. Phasellus sed nibh odio. Phasellus posuere at purus sit amet porttitor. Cras euismod egestas enim eget molestie. Aenean ornare condimentum odio, in lacinia felis finibus non. Nam faucibus libero et lectus finibus, sed porttitor velit pellentesque.">
+								<img src="<?php echo base_url() ?>assets/uncia/images/s2.jpg" alt="" />
 								<figcaption>
 								</figcaption>	
 							</a>
@@ -36,8 +36,8 @@
 				<div class="col-md-3 gallery-grid">
 					<div class="grid">
 						<figure class="effect-apollo">
-							<a class="example-image-link" href="<?php echo base_url() ?>assets/images/s4.jpg" data-lightbox="example-set" data-title="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ut sem ac lectus mattis sagittis. Donec pulvinar quam sit amet est vestibulum volutpat. Phasellus sed nibh odio. Phasellus posuere at purus sit amet porttitor. Cras euismod egestas enim eget molestie. Aenean ornare condimentum odio, in lacinia felis finibus non. Nam faucibus libero et lectus finibus, sed porttitor velit pellentesque.">
-								<img src="<?php echo base_url() ?>assets/images/s4.jpg" alt="" />
+							<a class="example-image-link" href="<?php echo base_url() ?>assets/uncia/images/s4.jpg" data-lightbox="example-set" data-title="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ut sem ac lectus mattis sagittis. Donec pulvinar quam sit amet est vestibulum volutpat. Phasellus sed nibh odio. Phasellus posuere at purus sit amet porttitor. Cras euismod egestas enim eget molestie. Aenean ornare condimentum odio, in lacinia felis finibus non. Nam faucibus libero et lectus finibus, sed porttitor velit pellentesque.">
+								<img src="<?php echo base_url() ?>assets/uncia/images/s4.jpg" alt="" />
 								<figcaption>
 								</figcaption>		
 							</a>
@@ -47,8 +47,8 @@
 				<div class="col-md-3 gallery-grid">
 					<div class="grid">
 						<figure class="effect-apollo">
-							<a class="example-image-link" href="<?php echo base_url() ?>assets/images/s5.jpg" data-lightbox="example-set" data-title="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ut sem ac lectus mattis sagittis. Donec pulvinar quam sit amet est vestibulum volutpat. Phasellus sed nibh odio. Phasellus posuere at purus sit amet porttitor. Cras euismod egestas enim eget molestie. Aenean ornare condimentum odio, in lacinia felis finibus non. Nam faucibus libero et lectus finibus, sed porttitor velit pellentesque.">
-								<img src="<?php echo base_url() ?>assets/images/s5.jpg" alt="" />
+							<a class="example-image-link" href="<?php echo base_url() ?>assets/uncia/images/s5.jpg" data-lightbox="example-set" data-title="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ut sem ac lectus mattis sagittis. Donec pulvinar quam sit amet est vestibulum volutpat. Phasellus sed nibh odio. Phasellus posuere at purus sit amet porttitor. Cras euismod egestas enim eget molestie. Aenean ornare condimentum odio, in lacinia felis finibus non. Nam faucibus libero et lectus finibus, sed porttitor velit pellentesque.">
+								<img src="<?php echo base_url() ?>assets/uncia/images/s5.jpg" alt="" />
 								<figcaption>
 								</figcaption>	
 							</a>
@@ -58,8 +58,8 @@
 				<div class="col-md-3 gallery-grid">
 					<div class="grid">
 						<figure class="effect-apollo">
-							<a class="example-image-link" href="<?php echo base_url() ?>assets/images/s7.jpg" data-lightbox="example-set" data-title="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ut sem ac lectus mattis sagittis. Donec pulvinar quam sit amet est vestibulum volutpat. Phasellus sed nibh odio. Phasellus posuere at purus sit amet porttitor. Cras euismod egestas enim eget molestie. Aenean ornare condimentum odio, in lacinia felis finibus non. Nam faucibus libero et lectus finibus, sed porttitor velit pellentesque.">
-								<img src="<?php echo base_url() ?>assets/images/s7.jpg" alt="" />
+							<a class="example-image-link" href="<?php echo base_url() ?>assets/uncia/images/s7.jpg" data-lightbox="example-set" data-title="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ut sem ac lectus mattis sagittis. Donec pulvinar quam sit amet est vestibulum volutpat. Phasellus sed nibh odio. Phasellus posuere at purus sit amet porttitor. Cras euismod egestas enim eget molestie. Aenean ornare condimentum odio, in lacinia felis finibus non. Nam faucibus libero et lectus finibus, sed porttitor velit pellentesque.">
+								<img src="<?php echo base_url() ?>assets/uncia/images/s7.jpg" alt="" />
 								<figcaption>
 								</figcaption>	
 							</a>
@@ -69,8 +69,8 @@
 				<div class="col-md-3 gallery-grid">
 					<div class="grid">
 						<figure class="effect-apollo">
-							<a class="example-image-link" href="<?php echo base_url() ?>assets/images/s8.jpg" data-lightbox="example-set" data-title="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ut sem ac lectus mattis sagittis. Donec pulvinar quam sit amet est vestibulum volutpat. Phasellus sed nibh odio. Phasellus posuere at purus sit amet porttitor. Cras euismod egestas enim eget molestie. Aenean ornare condimentum odio, in lacinia felis finibus non. Nam faucibus libero et lectus finibus, sed porttitor velit pellentesque.">
-								<img src="<?php echo base_url() ?>assets/images/s8.jpg" alt="" />
+							<a class="example-image-link" href="<?php echo base_url() ?>assets/uncia/images/s8.jpg" data-lightbox="example-set" data-title="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ut sem ac lectus mattis sagittis. Donec pulvinar quam sit amet est vestibulum volutpat. Phasellus sed nibh odio. Phasellus posuere at purus sit amet porttitor. Cras euismod egestas enim eget molestie. Aenean ornare condimentum odio, in lacinia felis finibus non. Nam faucibus libero et lectus finibus, sed porttitor velit pellentesque.">
+								<img src="<?php echo base_url() ?>assets/uncia/images/s8.jpg" alt="" />
 								<figcaption>
 								</figcaption>		
 							</a>
@@ -80,8 +80,8 @@
 				<div class="col-md-3 gallery-grid">
 					<div class="grid">
 						<figure class="effect-apollo">
-							<a class="example-image-link" href="<?php echo base_url() ?>assets/images/s9.jpg" data-lightbox="example-set" data-title="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ut sem ac lectus mattis sagittis. Donec pulvinar quam sit amet est vestibulum volutpat. Phasellus sed nibh odio. Phasellus posuere at purus sit amet porttitor. Cras euismod egestas enim eget molestie. Aenean ornare condimentum odio, in lacinia felis finibus non. Nam faucibus libero et lectus finibus, sed porttitor velit pellentesque.">
-								<img src="<?php echo base_url() ?>assets/images/s9.jpg" alt="" />
+							<a class="example-image-link" href="<?php echo base_url() ?>assets/uncia/images/s9.jpg" data-lightbox="example-set" data-title="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ut sem ac lectus mattis sagittis. Donec pulvinar quam sit amet est vestibulum volutpat. Phasellus sed nibh odio. Phasellus posuere at purus sit amet porttitor. Cras euismod egestas enim eget molestie. Aenean ornare condimentum odio, in lacinia felis finibus non. Nam faucibus libero et lectus finibus, sed porttitor velit pellentesque.">
+								<img src="<?php echo base_url() ?>assets/uncia/images/s9.jpg" alt="" />
 								<figcaption>
 								</figcaption>	
 							</a>
@@ -91,8 +91,8 @@
 				<div class="col-md-3 gallery-grid">
 					<div class="grid">
 						<figure class="effect-apollo">
-							<a class="example-image-link" href="<?php echo base_url() ?>assets/images/s3.jpg" data-lightbox="example-set" data-title="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ut sem ac lectus mattis sagittis. Donec pulvinar quam sit amet est vestibulum volutpat. Phasellus sed nibh odio. Phasellus posuere at purus sit amet porttitor. Cras euismod egestas enim eget molestie. Aenean ornare condimentum odio, in lacinia felis finibus non. Nam faucibus libero et lectus finibus, sed porttitor velit pellentesque.">
-								<img src="<?php echo base_url() ?>assets/images/s3.jpg" alt="" />
+							<a class="example-image-link" href="<?php echo base_url() ?>assets/uncia/images/s3.jpg" data-lightbox="example-set" data-title="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ut sem ac lectus mattis sagittis. Donec pulvinar quam sit amet est vestibulum volutpat. Phasellus sed nibh odio. Phasellus posuere at purus sit amet porttitor. Cras euismod egestas enim eget molestie. Aenean ornare condimentum odio, in lacinia felis finibus non. Nam faucibus libero et lectus finibus, sed porttitor velit pellentesque.">
+								<img src="<?php echo base_url() ?>assets/uncia/images/s3.jpg" alt="" />
 								<figcaption>
 								</figcaption>	
 							</a>
@@ -102,8 +102,8 @@
 				<div class="col-md-3 gallery-grid">
 					<div class="grid">
 						<figure class="effect-apollo">
-							<a class="example-image-link" href="<?php echo base_url() ?>assets/images/s6.jpg" data-lightbox="example-set" data-title="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ut sem ac lectus mattis sagittis. Donec pulvinar quam sit amet est vestibulum volutpat. Phasellus sed nibh odio. Phasellus posuere at purus sit amet porttitor. Cras euismod egestas enim eget molestie. Aenean ornare condimentum odio, in lacinia felis finibus non. Nam faucibus libero et lectus finibus, sed porttitor velit pellentesque.">
-								<img src="<?php echo base_url() ?>assets/images/s6.jpg" alt="" />
+							<a class="example-image-link" href="<?php echo base_url() ?>assets/uncia/images/s6.jpg" data-lightbox="example-set" data-title="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ut sem ac lectus mattis sagittis. Donec pulvinar quam sit amet est vestibulum volutpat. Phasellus sed nibh odio. Phasellus posuere at purus sit amet porttitor. Cras euismod egestas enim eget molestie. Aenean ornare condimentum odio, in lacinia felis finibus non. Nam faucibus libero et lectus finibus, sed porttitor velit pellentesque.">
+								<img src="<?php echo base_url() ?>assets/uncia/images/s6.jpg" alt="" />
 								<figcaption>
 								</figcaption>		
 							</a>
@@ -113,8 +113,8 @@
 				<div class="col-md-3 gallery-grid">
 					<div class="grid">
 						<figure class="effect-apollo">
-							<a class="example-image-link" href="<?php echo base_url() ?>assets/images/s10.jpg" data-lightbox="example-set" data-title="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ut sem ac lectus mattis sagittis. Donec pulvinar quam sit amet est vestibulum volutpat. Phasellus sed nibh odio. Phasellus posuere at purus sit amet porttitor. Cras euismod egestas enim eget molestie. Aenean ornare condimentum odio, in lacinia felis finibus non. Nam faucibus libero et lectus finibus, sed porttitor velit pellentesque.">
-								<img src="<?php echo base_url() ?>assets/images/s10.jpg" alt="" />
+							<a class="example-image-link" href="<?php echo base_url() ?>assets/uncia/images/s10.jpg" data-lightbox="example-set" data-title="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ut sem ac lectus mattis sagittis. Donec pulvinar quam sit amet est vestibulum volutpat. Phasellus sed nibh odio. Phasellus posuere at purus sit amet porttitor. Cras euismod egestas enim eget molestie. Aenean ornare condimentum odio, in lacinia felis finibus non. Nam faucibus libero et lectus finibus, sed porttitor velit pellentesque.">
+								<img src="<?php echo base_url() ?>assets/uncia/images/s10.jpg" alt="" />
 								<figcaption>
 								</figcaption>		
 							</a>
@@ -124,8 +124,8 @@
 				<div class="col-md-3 gallery-grid">
 					<div class="grid">
 						<figure class="effect-apollo">
-							<a class="example-image-link" href="<?php echo base_url() ?>assets/images/s11.jpg" data-lightbox="example-set" data-title="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ut sem ac lectus mattis sagittis. Donec pulvinar quam sit amet est vestibulum volutpat. Phasellus sed nibh odio. Phasellus posuere at purus sit amet porttitor. Cras euismod egestas enim eget molestie. Aenean ornare condimentum odio, in lacinia felis finibus non. Nam faucibus libero et lectus finibus, sed porttitor velit pellentesque.">
-								<img src="<?php echo base_url() ?>assets/images/s11.jpg" alt="" />
+							<a class="example-image-link" href="<?php echo base_url() ?>assets/uncia/images/s11.jpg" data-lightbox="example-set" data-title="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ut sem ac lectus mattis sagittis. Donec pulvinar quam sit amet est vestibulum volutpat. Phasellus sed nibh odio. Phasellus posuere at purus sit amet porttitor. Cras euismod egestas enim eget molestie. Aenean ornare condimentum odio, in lacinia felis finibus non. Nam faucibus libero et lectus finibus, sed porttitor velit pellentesque.">
+								<img src="<?php echo base_url() ?>assets/uncia/images/s11.jpg" alt="" />
 								<figcaption>
 								</figcaption>		
 							</a>
@@ -135,8 +135,8 @@
 				<div class="col-md-3 gallery-grid">
 					<div class="grid">
 						<figure class="effect-apollo">
-							<a class="example-image-link" href="<?php echo base_url() ?>assets/images/s12.jpg" data-lightbox="example-set" data-title="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ut sem ac lectus mattis sagittis. Donec pulvinar quam sit amet est vestibulum volutpat. Phasellus sed nibh odio. Phasellus posuere at purus sit amet porttitor. Cras euismod egestas enim eget molestie. Aenean ornare condimentum odio, in lacinia felis finibus non. Nam faucibus libero et lectus finibus, sed porttitor velit pellentesque.">
-								<img src="<?php echo base_url() ?>assets/images/s12.jpg" alt="" />
+							<a class="example-image-link" href="<?php echo base_url() ?>assets/uncia/images/s12.jpg" data-lightbox="example-set" data-title="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ut sem ac lectus mattis sagittis. Donec pulvinar quam sit amet est vestibulum volutpat. Phasellus sed nibh odio. Phasellus posuere at purus sit amet porttitor. Cras euismod egestas enim eget molestie. Aenean ornare condimentum odio, in lacinia felis finibus non. Nam faucibus libero et lectus finibus, sed porttitor velit pellentesque.">
+								<img src="<?php echo base_url() ?>assets/uncia/images/s12.jpg" alt="" />
 								<figcaption>
 								</figcaption>		
 							</a>
@@ -144,7 +144,7 @@
 					</div>
 				</div>
 				<div class="clearfix"> </div>
-				<script language="JavaScript" src="<?php echo base_url() ?>assets/js/lightbox-plus-jquery.min.js"> </script>
+				<script language="JavaScript" src="<?php echo base_url() ?>assets/uncia/js/lightbox-plus-jquery.min.js"> </script>
 			</div>
 		</div>
 	</div>
