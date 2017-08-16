@@ -58,21 +58,22 @@
 								<a href="#" class="hi-icon icon1"><i class="fa fa-cog" aria-hidden="true"></i></a>
 							</div>
 							<h4>Ejecución & desarrollo de trabajos críticos</h4>
-							<p style="font-size: 20px;">Nos especializamos en mantenimiento de infraestructura en diversos rubros como limpieza industrial, reparación de estructuras de altura, aplicación de pintura, etc.</p>
+							<p style="font-size: 16px;">Nos especializamos en el mantenimiento de infraestructura de cualquier material, mediante servicios como limpieza industrial, reparación de estructuras de altura, aplicación de pintura, etc.</p>
+
 						</div>
-						<div class="col-md-4 w3l-abt-grid-1">
+						<div class="col-md-4 w3l-abt-grid-1">	
 							<div class="hi-icon-wrap hi-icon-effect-7 hi-icon-effect-7b">
 								<a href="#" class="hi-icon icon2"><i class="fa fa-sun-o" aria-hidden="true"></i></a>
 							</div>
 							<h4>Entrenamiento & Certificación de Personal</h4>
-							<p>Si buscas ser compente en trabajos en altura, control en energía peligrosa, espacios confinados, entre otros, entrena con nosotros y obtén una certificación.</p>
+							<p style="font-size: 16px;">Si buscas ser compente en trabajos en altura, control en energía peligrosa, espacios confinados, entre otros, entrena con nosotros y obtén una certificación.</p>
 						</div>
 						<div class="col-md-4 w3l-abt-grid-2">
 							<div class="hi-icon-wrap hi-icon-effect-7 hi-icon-effect-7b">
 								<a href="#" class="hi-icon icon3"><i class="fa fa-gift" aria-hidden="true"></i></i></a>
 							</div>
 							<h4>Asesoría & Consultoría (HSE)</h4>
-							<p>Brindamos soporte en elaboración de Matrices de Control de Energía Peligrosa, Asesoramiento para Programas de Riesgo Critico, Auditorías Externas, etc.</p>
+							<p style="font-size: 16px;">Brindamos soporte en elaboración de Matrices de Control de Energía Peligrosa, Asesoramiento para Programas de Riesgo Critico, Auditorías Externas, etc.</p>
 						</div>
 						<div class="clearfix"></div>
 					</div>
@@ -83,9 +84,8 @@
 	<div class="services news">
 		<div class="container"> 
 				<div class="new-w3l">
-					<h3 class="w3ls_head">Noticias & Eventos</h3>
-					<p class="para">Lorem Ipsum is simply dummy text <span> type setting industry</span> esse cillum dolore eu 
-					fugiat nulla pariatur. Excepteur sint occaecat.</p>			
+					<h3 class="w3ls_head">Nuestra Experiencia</h3>
+					<p class="para">Proyectos concluidos con cero accidentes hasta la fecha</p>			
 				</div>
 			<div class="news-agileinfo">
 				<div class="col-sm-4 news-w3lgrids">

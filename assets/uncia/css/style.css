@@ -20,7 +20,7 @@ body{
 }
 /*-- banner --*/
 .banner{
-    background: url(../images/hidrolavado.jpg) no-repeat 0px 0px;
+    background: url(../images/panel01.jpg) no-repeat 0px 0px;
     background-size: cover;
     min-height:750px;
 }
@@ -36,7 +36,7 @@ body{
     background-position: 50% 50%;
 }
 .banner-1 {
-    background: url(../images/hidrolavado.jpg) no-repeat 0px 0px;
+    background: url(../images/panel01.jpg) no-repeat 0px 0px;
     background-size: cover;
     min-height: 350px;
 }
@@ -51,8 +51,11 @@ body{
     width: 33.33%;
 }
 .header-top-left p, .header-top-right p {
-    color: #FFFFFF;
-    font-size: 16px;
+    color: #7b7a7a;
+    font-size: 20px;
+    /*-- //Add to center the number phone --*/
+    width: 33.33%;
+    margin: 25px 0 0;
 }
 .header-top-right{
     float: right;
@@ -325,7 +328,7 @@ i.fa.fa-search {
 }
 .agileits_w3layouts_banner_info h3 {
     text-align: center;
-    font-size: 2.7em;
+    font-size: 3.0em;
     font-weight: 600;
     color: #fff;
     letter-spacing: 2px;
@@ -337,11 +340,11 @@ i.fa.fa-search {
     line-height: 28px;
     width: 63%;
     margin: 30px auto;
-    font-size: 17px;
+    font-size: 19px;
 }
 /*-- //banner_info --*/
 .w3ls_head {
-    font-size: 40px;
+    font-size: 45px;
     color: #212121;
     font-weight: 600;
     margin-bottom: 30px;
@@ -382,7 +385,7 @@ p.para {
     margin: 0 auto;
     color: #777;
     line-height: 32px;
-    font-size: 15px;
+    font-size: 18px;
     letter-spacing: 0px;
     text-align:center;
 }
