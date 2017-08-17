@@ -50,7 +50,7 @@
 									</li>	
 									<li style="margin-left: 10px;"><a href="<?php echo site_url('Projects') ?>">Experiencia</a></li>
 									<li style="margin-left: 10px;"><a href="<?php echo site_url('Contact') ?>">Contacto</a></li> 
-									<li style="margin-left: 10px;"><a href="<?php echo site_url('Contact') ?>">Blog</a></li> 
+									<li style="margin-left: 10px;"><a href="<?php echo site_url('Contact') ?>">Blog</a></li>
 								</ul>	
 								<div class="clearfix"> </div>	
 							</div>

@@ -199,7 +199,7 @@ body{
     content: '';
     position: absolute;
     bottom: -2px;
-    background: #3aff8a;
+    background: #3aff8a;/*Color de animacion al pasar el mouse en el header*/
     height: 3px;
     width: 0;
     left: 0;
@@ -366,7 +366,7 @@ p.w3agile {
 }
 .w3ls_head:before, .w3ls_head:after {
     position: absolute;
-    background: #3aff8a;
+    background: #3aff8a; /*Color del subrayado de los titulos*/
     height: 2px;
     content: '';
 }
@@ -395,7 +395,7 @@ p.para {
     padding: 5em 0;
 }
 .footer-grid-heading h4 {
-    color: #3aff8a;
+    color: #3aff8a;  /*COLOR DE TITULOS DEL FOOTER*/
     font-size: 25px;
     margin: 0;
     text-transform: uppercase;
@@ -719,7 +719,7 @@ ul.w3agile_footer_grid_list i.fa.fa-twitter {
 
 /* Effect 7b */
 .hi-icon-effect-7b .hi-icon:after {
-    box-shadow: 3px 3px #3aff8a;
+    box-shadow: 3px 3px #3aff8a; /*Color de animacion de iconos debajo de BIENVENIDO*/
     -webkit-transform: rotate(-90deg);
     -moz-transform: rotate(-90deg);
     -ms-transform: rotate(-90deg);
@@ -783,7 +783,7 @@ a.hi-icon.icon3 {
     margin: 0 auto;
 }
 .w3-about h4 {
-    color: #3aff8a;
+    color: #3aff8a; /*Color de Titulo de los "SERVICIOS"*/
     font-size: 24px;
     letter-spacing: 2px;
     margin: 30px 0 12px;
@@ -854,7 +854,7 @@ a.hi-icon.icon3 {
 }
 .news h5 {
     display: inline-block;
-    background: #3aff8a;
+    background: #3aff8a; /*Color del cuadrado de "Nuestra Experiencia"*/
     padding: .8em 1.5em;
     font-size: 1em;
     color: #fff;
@@ -878,7 +878,7 @@ a.hi-icon.icon3 {
     transition:.5s all;
 }
 .news  h4 a:hover {
-    color:#3aff8a;
+    color:#3aff8a; /*COLOR de animacion del titulo en "Nuestra Experiencia"*/
 }  
 .news a.w3-agilebtn {
     padding: .6em 1.5em;
@@ -915,7 +915,7 @@ img.img-responsive {
     text-align: center;
 }
 .testi-w3agileinfo h5 {
-    color: #3aff8a;
+    color: #3aff8a; /*Color del subtitulo de "Nuestros Clientes"*/
     font-size: 1.8em;
     letter-spacing: 1px;
     margin: 0 0 1em 0;
@@ -1099,7 +1099,7 @@ img.img-responsive {
 }
 h3.icon-subheading {
     font-size: 28px;
-    color:#3aff8a !important;
+    color:#eb0000 !important;
     margin: 30px 0 15px;
     font-weight: 600;
     letter-spacing: 2px;
