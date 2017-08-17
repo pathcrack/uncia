@@ -26,7 +26,7 @@
 			<div class="header" style="height: 55px;">
 				<div class="container">
 					<div class="top-nav">
-						<nav class="navbar navbar-default" style="height: 55px; margin-top: -37px;">
+						<nav class="navbar navbar-default" style="height: 55px">
 								<div class="navbar-header">
 									<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" style="margin-top: 45px;">
 										<span class="sr-only">Toggle navigation</span>
@@ -38,9 +38,9 @@
 								<!--navbar-header-->
 							<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 								<ul class="nav navbar-nav navbar-right">
-									<li ><a href="<?php echo site_url('Home') ?>" class="active">Home</a></li>
+									<li ><a href="<?php echo site_url('Home') ?>" >Home</a></li> <!--class = "active"-->
 									<li style="margin-left: 10px;"><a href="<?php echo site_url('About') ?>">Nosotros</a></li>
-									<li style="margin-left: 10px;"><a href="<?php echo site_url('Gallery') ?>">Galería</li>
+									<li style="margin-left: 10px;"><a href="<?php echo site_url('Gallery') ?>">Galería</a></li>
 									<li style="margin-left: 10px;"><a href="#" class="dropdown-toggle hvr-bounce-to-bottom" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Servicios<span class="caret"></span></a>
 										<ul class="dropdown-menu">
 											<li><a class="hvr-bounce-to-bottom" href="icons.html"></a>Ejecución Y Desarrollo <br>de Trabajos Críticos</li>
@@ -48,8 +48,8 @@
 											<li><a class="hvr-bounce-to-bottom" href="typography.html">Asesoría Y Consultoría</a></li>
 										</ul>
 									</li>	
-									<li style="margin-left: -10px;"><a href="<?php echo site_url('Projects') ?>">Experiencia</a></li>
-									<li style="margin-left: 30px;"><a href="<?php echo site_url('Contact') ?>">Contacto</a></li> 
+									<li style="margin-left: 10px;"><a href="<?php echo site_url('Projects') ?>">Experiencia</a></li>
+									<li style="margin-left: 10px;"><a href="<?php echo site_url('Contact') ?>">Contacto</a></li> 
 									<li style="margin-left: 10px;"><a href="<?php echo site_url('Contact') ?>">Blog</a></li> 
 								</ul>	
 								<div class="clearfix"> </div>	
