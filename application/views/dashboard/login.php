@@ -35,17 +35,23 @@
           <div class="form-inner">
             <div class="logo text-uppercase"><span>Un</span><strong class="text-primary">CIA</strong></div>
             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud.</p>
-            <form id="login-form" method="post">
-              <div class="form-group">
-                <label for="login-username" class="label-custom">User Name</label>
-                <input id="login-username" type="text" name="loginUsername" required="">
-              </div>
-              <div class="form-group">
-                <label for="login-password" class="label-custom">Password</label>
-                <input id="login-password" type="password" name="loginPassword" required="">
-              </div><a id="login" href="<?php echo site_url('Dashboard') ?>" class="btn btn-primary">Login</a>
+           
+            	<?php echo form_open('User/signin');?>
+               <div class="form-group">
+                  <label for="login-username" class="label-custom">Usuario</label>
+              	 <?php echo form_input(['name' => 'username', 'placeholder' => '','class' => 'textbox']);?>
+               </div>
+               <div class="form-group">
+                  <label for="login-password" class="label-custom">Contraseña</label>
+                	<?php echo form_password(['name' => 'password', 'placeholder' => '','class' => 'textbox']);?>
+               </div>
+                
+              <?php echo form_submit(['name' => 'submit', 'value' => 'INICIAR SESION','class' => 'btn btn-primary']);?>
+             
               <!-- This should be submit button but I replaced it with <a> for demo purposes-->
-            </form><a href="#" class="forgot-pass">Forgot Password?</a>
+          
+              <?php echo form_close();?>
+            <a href="#" class="forgot-pass">Forgot Password?</a>
           </div>
           <div class="copyrights text-center">
             <p>Design by <a href="https://bootstrapious.com" class="external">SmayDif</a></p>
